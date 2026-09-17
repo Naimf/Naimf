@@ -1,14 +1,28 @@
 <h1 align="center">Hi 👋, I'm Md. Naim Ferdous</h1>
 
-<h3 align="center">CSE Student | Software Developer | Cybersecurity Enthusiast | Researcher</h3>
+<h3 align="center">CSE Student • Software Developer • Cybersecurity Enthusiast • Researcher</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=71E2B1&center=true&vCenter=true&width=560&lines=Building+security-focused+tools+%26+software;Breaking+things+responsibly%2C+fixing+them+properly;Researching+ML+for+Cybersecurity;Open+to+internship+opportunities" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://naimf.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Site-71E2B1?style=for-the-badge&logo=vercel&logoColor=0b0f14" />
+  </a>
   <a href="https://github.com/Naimf">
     <img src="https://img.shields.io/badge/GitHub-Naimf-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/naimf/">
     <img src="https://img.shields.io/badge/LinkedIn-Naim%20Ferdous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:naimnf02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Naimf&style=for-the-badge&color=71e2b1&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -23,7 +37,7 @@ I'm a final-year **Computer Science & Engineering student at American Internatio
 * 🧪 Currently developing my skills in **Software Quality Assurance (SQA), Manual Testing & Test Automation**
 * 🔬 Research experience in **Cybersecurity, Machine Learning & Vulnerability Detection**
 * 🚀 I enjoy building practical projects and learning new technologies independently
-* 🎓 Final-year CSE student at **AIUB**
+* 🌐 Full project showcase → **[naimf.github.io/portfolio](https://naimf.github.io/portfolio/)**
 
 ---
 
@@ -91,31 +105,34 @@ I'm a final-year **Computer Science & Engineering student at American Internatio
 
 ### 🚀 Featured Projects
 
-#### 🔐 VulnScope — Automated Web Security Assessment Framework
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔐 <a href="https://github.com/Naimf/VulnScope">VulnScope</a></h4>
+      <p><b>Python · Web Security · Security Automation</b></p>
+      <p>Automated web security assessment framework that streamlines security checks and organizes findings into structured reports.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/Naimf/reconx">ReconX</a></h4>
+      <p><b>Bash · Linux · Nmap · Networking</b></p>
+      <p>Network reconnaissance and security automation tool covering scanning, service enumeration, OS fingerprinting, DNS/WHOIS and structured reporting.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🕵️ <a href="https://github.com/Naimf/ip_osint_toolkit">IP OSINT Toolkit</a></h4>
+      <p><b>Jupyter Notebook · Python · OSINT</b></p>
+      <p>IP geolocation, abuse reputation and port-scan toolkit built for fraud investigation and recon workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💰 <a href="https://github.com/Naimf/finance-tracker">Finance Tracker</a></h4>
+      <p><b>PHP · JavaScript · HTML/CSS · MySQL</b></p>
+      <p>Web-based application for recording and organizing users' daily expenses and financial activity.</p>
+    </td>
+  </tr>
+</table>
 
-**Python | Web Security | Security Automation**
-
-An automated framework for performing web security assessments and organizing security findings into structured reports.
-
-🔗 [View Project](https://github.com/Naimf/VulnScope)
-
----
-
-#### 🌐 ReconX — Network Reconnaissance & Security Automation Tool
-
-**Bash | Linux | Networking | Nmap**
-
-A security-focused reconnaissance tool for network scanning, service enumeration, OS fingerprinting, DNS/WHOIS information gathering, and structured reporting.
-
----
-
-#### 💰 Finance Tracker
-
-**PHP | JavaScript | HTML/CSS | MySQL**
-
-A web-based application for recording and organizing users' daily expenses and financial activity.
-
-🔗 [View Project](https://github.com/Naimf/finance-tracker)
+<p align="center"><a href="https://naimf.github.io/portfolio/">See the full write-up of every project on my portfolio →</a></p>
 
 ---
 
@@ -133,7 +150,6 @@ My research interests include:
 **Accepted Research Paper**
 
 *Empirical Benchmarking of Password Hashing Algorithms Under Controlled Offline Cracking Conditions*
-
 International Conference on Data Mining & Information Security (ICDMIS 2026)
 
 ---
@@ -151,11 +167,16 @@ International Conference on Data Mining & Information Security (ICDMIS 2026)
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naimf&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naimf&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=71e2b1&icon_color=71e2b1" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naimf&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=71e2b1" width="35%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naimf&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Naimf&theme=dark&background=0d1117&border=0d1117&ring=71e2b1&fire=71e2b1&currStreakLabel=71e2b1" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naimf&theme=darkhub&no-frame=true&margin-w=8&row=1" />
 </p>
 
 ---
@@ -163,8 +184,14 @@ International Conference on Data Mining & Information Security (ICDMIS 2026)
 ### 🤝 Let's Connect
 
 <p align="left">
+  <a href="https://naimf.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-71E2B1?style=for-the-badge&logo=vercel&logoColor=0b0f14" />
+  </a>
   <a href="https://www.linkedin.com/in/naimf/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:naimnf02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
